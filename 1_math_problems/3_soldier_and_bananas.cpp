@@ -9,6 +9,7 @@ The first line contains three positive integers k, n, w (1  ≤  k,�
 Output
 Output one integer — the amount of dollars that the soldier must borrow from his friend. If he doesn't have to borrow money, output 0.
 */
+
 #include <iostream>
 
 using namespace std;
