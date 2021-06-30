@@ -10,6 +10,8 @@ The first input line contains a single integer n (1 ≤ n ≤ 100) — t
 
 Output
 Print the volume fraction in percent of orange juice in Vasya's cocktail. The answer will be considered correct if the absolute or relative error does not exceed 10  - 4.
+
+Now Write the code
 */
 
 #include <iostream>
